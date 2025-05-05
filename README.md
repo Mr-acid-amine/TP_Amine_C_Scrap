@@ -15,7 +15,7 @@ Permet de filtrer les articles par catégorie ou tag. Il interroge la base de do
 - Python 3.x
 - Bibliothèques : `requests`, `beautifulsoup4`, `pymongo`
 
-Installez les dépendances avec :
+Installez les dépendances et run it :
 
 ```bash
 pip install requests beautifulsoup4 pymongo
